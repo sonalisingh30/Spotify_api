@@ -1,0 +1,218 @@
+
+{
+  "playlists": [
+    {
+      "id": "1",
+      "name": "lofi beats",
+      "description": "chill beats, ofi, vibes,new track..",
+      "owner": "spotify",
+      "image": "./assests/images/lofi.jpeg",
+      "tracks": [
+        
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Today's Top Hits",
+      "description": "Laid-back beats for chilling out",
+      "owner": "spotify",
+      "image": "./assests/images/top-hit.jpeg",
+      "tracks": [
+        
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chillout Lounge",
+      "description": "Smooth jazz for relaxing ambiance",
+      "owner": "spotify",
+      "image": "./assests/images/chill_out.jpeg",
+      "tracks": [
+        
+      ]
+    },
+    {
+      "id": "4",
+      "name": "All Out 2020s",
+      "description": "Acoustic melodies to soothe the soul",
+      "owner": "spotify",
+      "image": "./assests/images/allout.jpeg",
+      "tracks": [
+        
+      ]
+    }
+,
+    {
+      "id": "5",
+      "name": "Chazz in the Background",
+      "description": "Acoustic melodies to soothe the soul",
+      "owner": "spotify",
+      "image": "./assests/images/chazz.jpeg",
+      "tracks": [
+        
+      ]
+    }
+  ],
+  "featuredPlaylists": [
+    {
+      "id": "6",
+      "name": "Sleep",
+      "description": "Tranquil tunes for a restful slumber",
+      "owner": "spotify",
+      "image": "./assests/images/sleep.JPG",
+      "tracks": [
+        
+      ]
+    },
+    {
+      "id": "7",
+      "name": "DayDreamer",
+      "description": "Melodies to drift away into your imagination",
+      "owner": "spotify",
+      "image": "./assests/images/day_dream.JPG",
+      "tracks": [
+        
+      ]
+    }
+  ],
+  "browseList": [
+    {
+      "id": "1",
+      "cardName": "Podcast",
+      "imageURL": "./assests/images/podcast.jpeg",
+      "bgColor": "#006450"
+    },
+    {
+      "id": "2",
+      "cardName": "Live Events",
+      "imageURL": "./assests/images/live_events.jpeg",
+      "bgColor": "#8400E7"
+    },
+    {
+      "id": "3",
+      "cardName": "Made for You",
+      "imageURL": "./assests/images/Made_for_you.png",
+      "bgColor": "#1E3264"
+    },
+    {
+      "id": "4",
+      "cardName": "Music",
+      "imageURL": "./assests/images/music.jpeg",
+      "bgColor": "#DC148C"
+    },
+    {
+      "id": "5",
+      "cardName": "New Releases",
+      "imageURL": "./assests/images/new_release.jpeg",
+      "bgColor": "#E8115B"
+    },
+    {
+      "id": "6",
+      "cardName": "Hindi",
+      "imageURL": "./assests/images/hindi.jpeg",
+      "bgColor": "#E8115B"
+    },
+    {
+      "id": "7",
+      "cardName": "Punjabi",
+      "imageURL": "./assests/images/punjabi.jpeg",
+      "bgColor": "#B02897"
+    },
+    {
+      "id": "8",
+      "cardName": "Tamil",
+      "imageURL": "./assests/images/tamil.jpeg",
+      "bgColor": "#A56752"
+    },
+    {
+      "id": "9",
+      "cardName": "Ghazals",
+      "imageURL": "./assests/images/ghazlas.jpeg",
+      "bgColor": "#777777"
+    },
+    {
+      "id": "10",
+      "cardName": "Video Podcast",
+      "imageURL": "./assests/images/video_podcast.jpeg",
+      "bgColor": "#E13300"
+    },
+    {
+      "id": "11",
+      "cardName": "Charts",
+      "imageURL": "./assests/images/charts.jpg",
+      "bgColor": "#E13300"
+    },
+    {
+      "id": "12",
+      "cardName": "Indie",
+      "imageURL": "./assests/images/indie.jpeg",
+      "bgColor": "#E91429"
+    },
+    {
+      "id": "13",
+      "cardName": "Pop",
+      "imageURL": "./assests/images/pop.jpeg",
+      "bgColor": "#148A08"
+    },
+    {
+      "id": "14",
+      "cardName": "Love",
+      "imageURL": "./assests/images/love.jpeg",
+      "bgColor": "#B02897"
+    },
+    {
+      "id": "15",
+      "cardName": "Discovery",
+      "imageURL": "./assests/images/discover.jpeg",
+      "bgColor": "#8D67AB"
+    },
+    {
+      "id": "16",
+      "cardName": "Trending",
+      "imageURL": "./assests/images/trending.jpeg",
+      "bgColor": "#B02897"
+    },
+    {
+      "id": "17",
+      "cardName": "Mood",
+      "imageURL": "./assests/images/mood.jpeg",
+      "bgColor": "#B02897"
+    },
+    {
+      "id": "18",
+      "cardName": "Party",
+      "imageURL": "./assests/images/party.jpeg",
+      "bgColor": "#537AA1"
+    },
+    {
+      "id": "19",
+      "cardName": "Devotional",
+      "imageURL": "./assests/images/devotional.jpeg",
+      "bgColor": "#C39687"
+    },
+    {
+      "id": "20",
+      "cardName": "Decades",
+      "imageURL": "./assests/images/decades.jpeg",
+      "bgColor": "#BA5D07"
+    },
+    {
+      "id": "21",
+      "cardName": "Hip-hop",
+      "imageURL": "./assests/images/hip-hop.jpeg",
+      "bgColor": "#503750"
+    },
+    {
+      "id": "22",
+      "cardName": "Student",
+      "imageURL": "./assests/images/student.jpeg",
+      "bgColor": "#AF2896"
+    },
+    {
+      "id": "23",
+      "cardName": "Workout",
+      "imageURL": "./assests/images/workout.jpeg",
+      "bgColor": "#777777"
+    }
+  ]
+}
