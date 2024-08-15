@@ -6,7 +6,7 @@
       "name": "lofi beats",
       "description": "chill beats, ofi, vibes,new track..",
       "owner": "spotify",
-      "image": "./assests/images/lofi.jpeg",
+      "image": "/assests/images/lofi.jpeg",
       "tracks": [
         
       ]
@@ -16,7 +16,7 @@
       "name": "Today's Top Hits",
       "description": "Laid-back beats for chilling out",
       "owner": "spotify",
-      "image": "./assests/images/top-hit.jpeg",
+      "image": "/assests/images/top-hit.jpeg",
       "tracks": [
         
       ]
